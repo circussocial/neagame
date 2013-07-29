@@ -2,7 +2,7 @@
 
 /* 
  * 
- * Amol C
+ * Amol C & Ashish Singhal
  */
 class NeagameModule extends CWebModule
 {
